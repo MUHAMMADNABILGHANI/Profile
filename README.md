@@ -1,10 +1,10 @@
 # 💫 About Me:
 im a student at padang state university,as a student of informatics engineering<br>and 2024 is my first year,at my first year i still learn C Program<br>i hope in this website will helpfully on a computer sience<br>and all the stuff that i need<br>funfact about me is,you know Mobile Legend:Bang Bang? I pro in that game<br>i reach immortal in ranked
 
-# 🎒(Padang State University
-NAME:Muhammad Nabil Ghani
-NIM:24343063
-MY EMAIL:muhammadnabilghani@gmail.com
+# 🎒(Padang State University)
+NAME:Muhammad Nabil Ghani<br>
+NIM:24343063<br>
+MY EMAIL:muhammadnabilghani@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabilghanni) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nabilghanni) 
